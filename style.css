@@ -1121,11 +1121,11 @@ p.centered {
 }
 .header-image.loading {
   overflow: hidden;
-  background: url(library/images/loader.gif) center center no-repeat;
+  /* background: url(library/images/loader.gif) center center no-repeat; */
 }
 .header-image.loading img,
 .header-image.loading .overlay {
-  visibility: hidden;
+  /* visibility: hidden; */
 }
 .header-image img {
   width: 100%;
